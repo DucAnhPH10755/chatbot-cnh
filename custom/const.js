@@ -2,17 +2,17 @@ module.exports = {
 	DEBUG : false,
 
 	//FACEBOOK TOKEN
-	FB_APP_SECRET : '',
-	FB_PAGE_VERIFY_TOKEN : 'passsword_dang_yeu_nhat_qua_dat', // đặt 1 mã bất kỳ
-	FB_PAGE_ACCESS_TOKEN : '',
+	FB_APP_SECRET : 'd54a74fa8466102989602be9fe58fd5f',
+	FB_PAGE_VERIFY_TOKEN : 'donganhchatbot', // đặt 1 mã bất kỳ
+	FB_PAGE_ACCESS_TOKEN : 'EAADpd8FDaucBAOOdpu9vqQ3GMXf5TeobWkAc2mcyPff3e75y0zSz9a5X1b24orItUAQ9KnGd9DD5hFiSo3PVtZB3gRiZBZCrbms3CZCxAE8YbOfVB39MqZBxVyfkTIhpUZCCyrjb5GOPnn1c5PTZAEMVAC5pPFhVx6lGOCUQpqCAxkNE6ZBZB0bwh3dw00hGfQSMZD',
 
 	//HEROKU STUFFS
-	APP_NAME : '',
-	HEROKU_API_KEY : '',
+	APP_NAME : 'donganhchatbot',
+	HEROKU_API_KEY : '8404fad9-1f18-4e9a-92b1-f49319168ca5',
 	KEEP_APP_ALWAYS_ON : false, // đổi thành true nếu đã thêm credit card vào heroku
 
 	//MONGODB SETUP
-	DB_CONFIG_URI : '',
+	DB_CONFIG_URI : 'mongodb+srv://DongAnhChatbot:a5k18thptda@donganhchatbot.hccrm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
 
 	//ANALYTICS
 	HAS_POST_LOG : false,
