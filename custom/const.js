@@ -9,7 +9,7 @@ module.exports = {
 	//HEROKU STUFFS
 	APP_NAME : 'donganhchatbot',
 	HEROKU_API_KEY : '8404fad9-1f18-4e9a-92b1-f49319168ca5',
-	KEEP_APP_ALWAYS_ON : true, // đổi thành true nếu đã thêm credit card vào heroku
+	KEEP_APP_ALWAYS_ON : false, // đổi thành true nếu đã thêm credit card vào heroku
 
 	//MONGODB SETUP
 	DB_CONFIG_URI : 'mongodb+srv://DongAnhChatbot:a5k18thptda@donganhchatbot.hccrm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
